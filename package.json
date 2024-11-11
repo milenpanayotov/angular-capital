@@ -54,7 +54,7 @@
     "@nx/eslint": "19.6.5",
     "@nx/eslint-plugin": "20.0.8",
     "@nx/express": "20.0.0",
-    "@nx/jest": "20.0.0",
+    "@nx/jest": "20.0.12",
     "@nx/js": "20.0.8",
     "@nx/next": "20.0.0",
     "@nx/node": "20.0.0",
