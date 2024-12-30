@@ -95,7 +95,7 @@
     "jest-environment-node": "^29.7.0",
     "jest-preset-angular": "14.2.4",
     "jsdom": "~25.0.1",
-    "nuxt": "^3.13.2",
+    "nuxt": "^3.15.0",
     "nx": "20.0.8",
     "prettier": "^3.3.3",
     "sass": "1.81.0",
